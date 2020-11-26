@@ -6,6 +6,7 @@ class Yasmine {
 public:
 	void afficher() {
 		cout << "Lydia intrue hnaya" << endl;
+		cout << "NON MA FILLE" << endl;
 	}
 };
 using namespace System;
