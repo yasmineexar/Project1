@@ -1,5 +1,13 @@
 ﻿//MyForm.cpp
 #include "MyForm.h"
+#include<iostream>
+using namespace std;
+class Yasmine {
+public:
+	void afficher() {
+		cout << "Lydia intrue hnaya" << endl;
+	}
+};
 using namespace System;
 using namespace System::Windows::Forms;
 [STAThreadAttribute]
